@@ -11,7 +11,7 @@ git clone <リポジトリURL>
 ## 内容
 
 - CTF実績
-  - National Cyber League - Fall 2025 (全体順位: 4214人中 上位 9% & 学内： 80人中 3位)
+  - National Cyber League - Fall 2025 (全体順位: 4214人中 上位 9% & 学内順位: 80人中 3位)
   - 上位カテゴリー
     - Forensics: 全体 161位
     - Network Traffic Analysis: 全体 217位
